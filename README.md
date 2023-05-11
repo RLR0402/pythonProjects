@@ -13,6 +13,6 @@ https://github.com/RLR0402/Flask_intro
 Description: A flask project where a simple app is created, simple messaging service, api calls 
 
 Project #3
-https://github.com/RLR0402/task_manager_
+https://github.com/RLR0402/task_manager
 
 Description: A task managment system created in python for mobile devices 
